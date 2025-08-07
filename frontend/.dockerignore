@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.vscode
+uploads
+Dockerfile
+pnpm-lock.yaml
+*.log

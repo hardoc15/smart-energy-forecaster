@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+
+__pycache__/
+*.pyc
+.venv/
+.env
+
+*.log
+*.pid
+*.sock
+
+.DS_Store
+
+.vscode/
+.idea/
